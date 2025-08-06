@@ -27,12 +27,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vidushi-tankha/" target="_blank">
+  <a href="https://www.linkedin.com/in/vidushi-tankha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23f4c2c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vidushitankha@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23ffc0cb.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 </p>
 
 <p align="center">⋆｡ﾟ✿｡⋆｡ ﾟ❀ ﾟ｡⋆</p>
