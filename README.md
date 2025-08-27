@@ -12,13 +12,12 @@
 
 -  🎓 Currently pursuing B.E. Chemical Engineering & Msc. Mathematics @ BITS Pilani Goa Campus 
 - 💡 Interested in fields related to:
-  - Machine Learning
-  - Product Strategy & Design
+  - Machine Learning in STEM
   - Business & Data Analytics
 - 🛠️ Learning and working with:
   - Python, SQL, HTML/CSS
-  - Pandas, NumPy, Matplotlib, scikit-learn
-  - Tableau, Excel, Figma
+  - Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
+  - Tableau, Excel
 
 <p align="center">
   ⋆˚₊✩‧₊˚ <em> Let's connect! </em>˚₊✩‧₊˚⋆
