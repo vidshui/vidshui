@@ -1,6 +1,6 @@
 <p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-<h2 align="center">🌸 Hey there! I'm Vidushi Tankha🌸</h2>
+<h2 align="center">Hey there! I'm Vidushi Tankha</h2>
 <p align="center">
   <em>Final year undergrad at <strong>BITS Pilani, Goa</strong></em>
 </p>
