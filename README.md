@@ -5,12 +5,7 @@
   <em>Final year undergrad at <strong>BITS Pilani, Goa</strong></em>
 </p>
 
-
-
-
-### 🪷 About Me 
-
--  🎓 Currently pursuing B.E. Chemical Engineering & Msc. Mathematics @ BITS Pilani Goa Campus 
+- 🎓 Currently pursuing B.E. Chemical Engineering & Msc. Mathematics @ BITS Pilani Goa Campus 
 - 💡 Interested in fields related to:
   - Machine Learning in STEM
   - Business & Data Analytics
