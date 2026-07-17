@@ -1,8 +1,8 @@
 <p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-<h2 align="center">🌸 Hey there! I'm Vidushi 🌸</h2>
+<h2 align="center">🌸 Hey there! I'm Vidushi Tankha🌸</h2>
 <p align="center">
-  <em>Pre-final year undergrad at <strong>BITS Pilani, Goa</strong></em>
+  <em>Final year undergrad at <strong>BITS Pilani, Goa</strong></em>
 </p>
 
 
@@ -15,9 +15,8 @@
   - Machine Learning in STEM
   - Business & Data Analytics
 - 🛠️ Learning and working with:
-  - Python, SQL, HTML/CSS
-  - Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn
-  - Tableau, Excel
+  - Python, SQL
+  - Tableau, Power BI, Excel
 
 <p align="center">
   ⋆˚₊✩‧₊˚ <em> Let's connect! </em>˚₊✩‧₊˚⋆
